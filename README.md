@@ -15,10 +15,6 @@
 
 
 
-## 📫 Let's Connect!
-
-<a href="https://www.linkedin.com/in/bola-wisa/" target="_blank"><img src="https://img.shields.io/badge/-Bishoy%20Ibrahim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/BolBolbeh" target="_blank"><img src="https://img.shields.io/badge/-Bishoy%20Ibrahim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ## 👨‍💻 About Me
