@@ -42,11 +42,13 @@
 
 ## 🎓 Education & Certifications
 
+- 🎯 **System Administration Track** – Information Technology Institute (ITI) (Nov.2024 – Apr.2025)
 - 🎓 **B.Sc. Computer Engineering** – csi. (2017–2022) With GPA: 3.12 /4  
-- 🎯 **System Admin Track** – ITI (Nov.2024 – Apr.2025)  
-- 🏅 **Huawei Cloud Developer (HCCDA-Tech Essentials)** – *Feb. 2025* 
+- ☁️ **AWS Certified Cloud Practitioner** – *May. 2025*
 - 🧑‍💻 **RHCSA (Red Hat Certified System Administrator)** – *Apr. 2025*
-- ☁️ **AWS Certified Cloud Practitioner** – *May. 2025*  
+- 🏅 **Huawei Cloud Developer (HCCDA-Tech Essentials)** – *Feb. 2025* 
+
+ 
 
 ---
 
