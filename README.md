@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Bola Wissa</h2>
-<p align="center">DevOps & Systems Engineer | Cloud Enthusiast | Always Learning 🚀</p>
+<p align="center">DevOps & Systems Engineer | Cloud Enthusiast </p>
 
 ---
 
