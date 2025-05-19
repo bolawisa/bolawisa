@@ -25,8 +25,7 @@
 **Monitoring & GitOps**  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
-
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 **System & Networking**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
@@ -35,25 +34,17 @@
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **B.Sc. Computer Engineering** – csi. (2017–2022)  
-- 🎯 **System Admin Track** – ITI (2024 – Present)  
-- 🏅 **Huawei Cloud Developer (HCCDA-Tech Essentials)** – Expected 01/2025  
-- 🧑‍💻 **RHCSA (Red Hat Certified System Administrator)** – *In Progress*
-
----
-
-## 🌱 Currently Learning
-
-- Terraform & Infrastructure as Code  
-- Advanced Kubernetes (Helm, Operators)  
-- GitOps Workflows with ArgoCD  
+- 🎓 **B.Sc. Computer Engineering** – csi. (2017–2022) With GPA: 3.12 /4  
+- 🎯 **System Admin Track** – ITI (Nov.2024 – Apr.2025)  
+- 🏅 **Huawei Cloud Developer (HCCDA-Tech Essentials)** – *Feb. 2025* 
+- 🧑‍💻 **RHCSA (Red Hat Certified System Administrator)** – *Apr. 2025*
+- ☁️ **AWS Certified Cloud Practitioner** – *May. 2025*  
 
 ---
 
