@@ -7,7 +7,7 @@
 
 - 🖥️ **System Administration**: Linux (RedHat/CentOS), Windows Server, Apache/Nginx, VMware  
 - ☁️ **DevOps & Cloud**: Docker, Kubernetes, AWS, CI/CD with Jenkins, Ansible, Terraform  
-- 🧠 **Database**: Oracle DB (SQL, PL/SQL), Monitoring & Tuning  
+- 🧠 **Database**:  SQL
 - 🌐 **Networking**: Cisco Routers & Switches, CCNA, LAN & Routing Protocols  
 
 ---
@@ -26,6 +26,8 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+
+
 **System & Networking**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
